@@ -1,2 +1,2 @@
 # infinite-days-of-code
-A collection of python scripts
+An ever-growing collection of python scripts. Stay tuned! :)
